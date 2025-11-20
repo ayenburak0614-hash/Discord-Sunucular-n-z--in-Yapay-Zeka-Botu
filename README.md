@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayenburak0614-hash/Discord-Sunucular-n-z--in-Yapay-Zeka-Botu/main/sroedgegithubbanner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/EnmAOfficial/Discord-Sunucular--icin-Yapay-Zeka-Botu/main/sroedgegithubbanner.png" width="100%" />
 </p>
 
 <div align="center">
