@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayenburak0614-hash/Discord-Sunucular-n-z--in-Yapay-Zeka-Botu/main/ai%20sup.png" width="100%" />
+</p>
+
 <div align="center">
 
 # 🤖 SROEdge AI Support Bot
@@ -27,7 +31,7 @@ Bu sayede:
 
 ## 🚀 Kurumsal Özellikler
 
-### ✔ 0/24 Otomatik Destek
+### ✔ 7/24 Otomatik Destek
 İnsan müdahalesi gerekmeden sürekli aktif ve anında yanıt verir.
 
 ### ✔ Akıllı Ticket Analizi
