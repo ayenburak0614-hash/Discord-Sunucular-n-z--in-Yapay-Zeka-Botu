@@ -27,7 +27,7 @@ Bu sayede:
 
 ## 🚀 Kurumsal Özellikler
 
-### ✔ 0/24 Otomatik Destek
+### ✔ 7/24 Otomatik Destek
 İnsan müdahalesi gerekmeden sürekli aktif ve anında yanıt verir.
 
 ### ✔ Akıllı Ticket Analizi
